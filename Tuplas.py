@@ -1,0 +1,7 @@
+tupla= (1,2,3,4,5,6,7,7,7)
+tupla2=(10,20,30)
+print(tupla)
+print(type(tupla))
+print(tupla[2])
+print(tupla[0:3])
+print(tupla+tupla2)
